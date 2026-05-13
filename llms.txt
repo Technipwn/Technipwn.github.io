@@ -1,0 +1,28 @@
+﻿#  | Technipwn
+
+> Technipwn, the Technion CTF team, hosts weekly meetings in which we gather to solve challenges, train for competitions, and have lots of fun. To learn more about us, read the FAQ or check us out on CTFTime.
+
+- [Welcome!](https://technionctf.com/welcome.md): Welcome!
+- [Past Events](https://technionctf.com/past-events.md): Some past events we've participated in
+- [FAQ](https://technionctf.com/faq.md): CTF ("Capture The Flag") is a computer security competition where the objective is to discover "flags" concealed within intentionally vulnerable programs or websites.
+- [Kali Linux Installation](https://technionctf.com/kali-installation.md): We recommend installing Kali Linux. Kali Linux is a cybersecurity-focused operating system with many tools that could be useful for solving CTFs.
+- [Collaborations](https://technionctf.com/collaborations.md): We would like to thank our partners and sponsors for helping us build and grow our CTF team.
+
+## Beginner workshops
+
+- [Introduction to CTF](https://technionctf.com/beginner-workshops/intro.md): PicoGym - "General Skills" challenges where rating ≥ 75%
+- [Web Exploitation](https://technionctf.com/beginner-workshops/web.md): Web Security Academy - apprentice server-side labs
+- [Binary Exploitation](https://technionctf.com/beginner-workshops/binary.md): OverTheWire Narnia (0-1)
+- [XSS](https://technionctf.com/beginner-workshops/xss.md): XSS Challanges
+- [Forensics](https://technionctf.com/beginner-workshops/forensics.md): CTFLearn - forensics challenges where rating ≥ 4.5
+- [LLM](https://technionctf.com/beginner-workshops/llm.md): GandalfAI - Reveal the password, and advance through the levels.
+- [Cryptography](https://technionctf.com/beginner-workshops/crypto.md): Cryptohack - General - XOR, Data Formats
+- [Reverse Engineering](https://technionctf.com/beginner-workshops/reverse.md): MicroCorruption - Debugger reversing
+
+## Advanced workshops
+
+- [Reverse Engineering](https://technionctf.com/advanced-workshops/reverse.md): Challenge! Patch WINMINE so it starts off solved:
+- [Binary exploitation (pwn)](https://technionctf.com/advanced-workshops/pwn.md): LiveOverflow's Binary Exploitation series
+- [CTF Competition](https://technionctf.com/advanced-workshops/ctf_competition.md): CSP Bypass - Nonce Points: 50
+- [Forensics](https://technionctf.com/advanced-workshops/forensics.md)
+- [Web Exploitation](https://technionctf.com/advanced-workshops/web.md)

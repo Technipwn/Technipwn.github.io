@@ -1,6 +1,6 @@
 ﻿#  | Technipwn
 
-> Technipwn, the Technion CTF team, hosts weekly meetings in which we gather to solve challenges, train for competitions, and have lots of fun. To learn more about us, read the FAQ or check us out on CTFTime.
+> --- order: -10
 
 - [Welcome!](https://technionctf.com/welcome.md): Welcome!
 - [Past Events](https://technionctf.com/past-events.md): Some past events we've participated in

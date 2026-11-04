@@ -8,7 +8,7 @@ order: -40
 [!button icon="download" text="Introduction"](/files/introduction.pptx) [!button icon="download" text="CTF Basics"](/files/ctf-basics.pptx)
 
 === Class Practice
-- [PicoGym](https://play.picoctf.org/practice?category=5&page=1) - "General Skills" challenges where rating ≥ 75%
+- [CyLab](https://learn.cylabacademy.org/library?page=1&category=5&difficulty=1) - "General Skills" challenges where rating ≥ 75%
 
 === Further Practice
 - [Bandit](https://overthewire.org/wargames/bandit/)

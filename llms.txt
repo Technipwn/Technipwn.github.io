@@ -10,7 +10,7 @@
 
 ## Beginner workshops
 
-- [Introduction to CTF](https://technionctf.com/beginner-workshops/intro.md): PicoGym - "General Skills" challenges where rating ≥ 75%
+- [Introduction to CTF](https://technionctf.com/beginner-workshops/intro.md): CyLab - "General Skills" challenges where rating ≥ 75%
 - [Web Exploitation](https://technionctf.com/beginner-workshops/web.md): Web Security Academy - apprentice server-side labs
 - [Binary Exploitation](https://technionctf.com/beginner-workshops/binary.md): OverTheWire Narnia (0-1)
 - [XSS](https://technionctf.com/beginner-workshops/xss.md): XSS Challanges

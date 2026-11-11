@@ -1,8 +1,8 @@
 input: .
 output: .retype
 url: https://technionctf.com
-assets:
-  - files
+include:
+  - "files/**"
 branding:
   logo: files/logo-dark.png
 meta:

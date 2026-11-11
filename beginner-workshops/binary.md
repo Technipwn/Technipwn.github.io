@@ -1,7 +1,7 @@
 # Binary Exploitation
 
 === Presentations
-[!button icon="download" text="Binary Exploitation"](/files/Binary_Exploitation.pptx)
+[!button icon="download" text="Binary Exploitation"](/files/binary_exploitation.pptx)
 
 === Class Practice
 * [OverTheWire Narnia (0-1)](https://overthewire.org/wargames/narnia/)

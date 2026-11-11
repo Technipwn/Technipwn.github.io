@@ -1,7 +1,7 @@
 # Forensics
 
 === Presentations
-[!button icon="download" text="Forensics"](/files/forensics_W25.pptx)
+[!button icon="download" text="Forensics"](/files/forensics_w25.pptx)
 
 === Class Practice
 - [CTFLearn](https://ctflearn.com/challenge/1/browse) - forensics challenges where rating ≥ 4.5

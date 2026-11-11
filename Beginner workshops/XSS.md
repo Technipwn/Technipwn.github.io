@@ -5,7 +5,7 @@ order: -60
 # XSS
 
 === Presentations
-[!button icon="download" text="XSS"](/files/XSS.pptx)
+[!button icon="download" text="XSS"](/files/xss.pptx)
 
 === Class Practice
 * [XSS Challanges](https://xss-quiz.int21h.jp/)
